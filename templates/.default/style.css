@@ -1,0 +1,7 @@
+#bx-registration .captcha_reload {
+	display: inline-block;
+	height: 32px;
+	width: 32px;
+	margin-bottom: -13px;
+    background: url("images/reload.png") left center no-repeat;
+}
