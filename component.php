@@ -1,4 +1,5 @@
 <?
+// Waspar
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 
 $arParams["FORM_NAME"] = is_array($arParams["FORM_NAME"])? $arParams["FORM_NAME"]: array();
