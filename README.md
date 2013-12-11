@@ -1,2 +1,2 @@
-reload.captcha
+captcha.reload
 ==============
